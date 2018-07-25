@@ -1,0 +1,33 @@
+{
+    "name": "redreams/class-finder",
+    "description": "Util for find classes in strings",
+    "keywords": [],
+    "homepage": "https://github.com/redreams/class-finder",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gennady Knyazkin",
+            "email": "dev@gennadyx.tech",
+            "homepage": "http://gennadyx.tech"
+        }
+    ],
+    "require": {
+        "php" : "^7.0|^7.1|^7.2"
+    },
+    "require-dev": {
+        "phpunit/phpunit" : "6.5.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Redreams\\ClassFinder\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Redreams\\ClassFinder\\Tests\\": "tests"
+        }
+    },
+    "scripts": {
+        "test": "php vendor/bin/phpunit --configuration ./phpunit.xml.dist --coverage-clover=coverage.clover"
+    }
+}
