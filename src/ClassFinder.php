@@ -26,7 +26,7 @@ class ClassFinder
      * @param string $source PHP source code
      * @return string|null Fully qualified class name if found, null otherwise
      */
-    public static function find(string $source)
+    public static function find(string $source): ?string
     {
         $class = false;
         $namespace = false;
