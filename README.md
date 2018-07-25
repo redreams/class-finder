@@ -59,13 +59,13 @@ The MIT License (MIT). Please see [License File](LICENSE) for more information.
 [ico-license]: https://img.shields.io/packagist/l/redreams/class-finder.svg
 [ico-coverage]: https://img.shields.io/scrutinizer/coverage/g/redreams/class-finder.svg?style=flat
 [ico-code-quality-scrutinizer]: https://img.shields.io/scrutinizer/g/redreams/class-finder.svg?style=flat
-[ico-code-quality-sensio]: https://insight.sensiolabs.com/projects/:sensio_project:/mini.png
+[ico-code-quality-sensio]: https://insight.sensiolabs.com/projects/8f6eeb10-0a4f-4b63-96ec-cf274bd192e3/mini.png
 [ico-downloads]: https://img.shields.io/packagist/dt/redreams/class-finder.svg?style=flat
 
 [link-packagist]: https://packagist.org/packages/redreams/class-finder
 [link-coverage]: https://scrutinizer-ci.com/g/redreams/class-finder/code-structure
 [link-code-quality-scrutinizer]: https://scrutinizer-ci.com/g/redreams/class-finder
-[link-code-quality-sensio]: https://insight.sensiolabs.com/projects/:sensio_project:
+[link-code-quality-sensio]: https://insight.sensiolabs.com/projects/8f6eeb10-0a4f-4b63-96ec-cf274bd192e3
 [link-downloads]: https://packagist.org/packages/redreams/class-finder
 [link-author]: http://gennadyx.tech
 [link-contributors]: https://github.com/redreams/class-finder/contributors
